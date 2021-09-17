@@ -1,0 +1,24 @@
+{
+  "name": "shop_phreedah",
+  "version": "1.0.0",
+  "description": "online shop project with Freida-chan",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victrudoh/shop_Phreedah.git"
+  },
+  "keywords": [
+    "online",
+    "shop"
+  ],
+  "author": "Edikan & Freida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victrudoh/shop_Phreedah/issues"
+  },
+  "homepage": "https://github.com/victrudoh/shop_Phreedah#readme"
+}
